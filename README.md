@@ -1,3 +1,4 @@
+# Retail-Sales-Rule-Engine
 Retail Stores Sales Rule-Engine With Scala Functional Programming
 This is a Scala program that applies qualifying rules to transactions, writes the output transactions to a file, and inserts them into a PostgreSQL database. The program also monitors an input directory for new files, processes the files, and deletes the input files if they were successfully processed and inserted into the database.
 
